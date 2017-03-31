@@ -1,0 +1,7 @@
+name: TimePlayed
+main: infomcpe\TimePlayed
+version: 1.0
+api: 2.0.0
+load: POSTWORLD
+author: opkiler22789
+website: infomcpe.ru
